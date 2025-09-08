@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Vishva 👋  
 
-<!--
-**gajarajVish/gajarajVish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student at the University of Pennsylvania, studying Computer & Information Science (BSE) and **Electrical & Systems Engineering (MSE). I like building things that connect machine learning, distributed systems, and blockchain — from optimizing vehicle routing with neural networks to making ML models shareable on-chain.  
 
-Here are some ideas to get you started:
+I’ve gotten to work on medical research at Penn, auto finance tech at Capital One, and large-scale telecom systems at RealNetworks — all really different, but each taught me how tech moves from ideas to real-world impact.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills  
+**Languages**: Python, Java, C++, SQL, Solidity, C, OCaml
+**Frameworks & Tools**: PyTorch, TensorFlow, React, Node.js, Pandas, NumPy, PostgreSQL, AWS, Docker, Git
+
+---
+
+## 📬 Get in Touch  
+📧 Email: [vgajaraj@seas.upenn.edu](mailto:vgajaraj@seas.upenn.edu)  
+🔗 LinkedIn: [linkedin.com/in/vishvagajaraj](https://linkedin.com/in/vishvagajaraj)  
