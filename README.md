@@ -3,7 +3,7 @@
 I'm studying **Computer Science (BSE)** and **Electrical & Systems Engineering (MSE)** at Penn.  
 
 
-I love to read, run, lift, DJ, play basketball, and build at the intersection of web3 and AI. Feel free to drop a line ~
+I love to read, run, lift, DJ, play basketball, and build at the intersection of web3 and AI. Feel free to drop a line, I'd love to chat :).
 
 ---
 
