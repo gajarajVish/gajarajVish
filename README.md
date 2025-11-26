@@ -1,6 +1,6 @@
-# ⚡ Hey, I'm Vishva
+# Hey, I'm Vishva! 
 
-I study **Computer Science (BSE)** and **Electrical & Systems Engineering (MSE)** at Penn.  
+I'm studying **Computer Science (BSE)** and **Electrical & Systems Engineering (MSE)** at Penn.  
 
 
 I love to read, run, lift, DJ, play basketball, and build at the intersection of web3 and AI. Feel free to drop a line ~
