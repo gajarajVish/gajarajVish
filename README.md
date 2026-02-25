@@ -1,5 +1,2 @@
-Hey I'm Vishva
+Hey I'm Vishva. I'm studying CS at Penn and currently building @taurus_xyz_/
 
-Currently building @taurus_xyz_/
-
-x.com: https://x.com/taurus_xyz_/
