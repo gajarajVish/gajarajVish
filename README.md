@@ -1,3 +1,3 @@
-Hey I'm Vishva. I'm studying CS at Penn.
+Hi. My name's Vishva.
 
 Website: https://vishvagajaraj.xyz/
